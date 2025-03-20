@@ -1,3 +1,27 @@
+## Potrzebne informacje do releasu
+
+---
+
+### IOS:
+- **Name apki** (0/30 znaków)
+- **Subtitle** (0/30 znaków)
+- **Category**
+- **Promotional Text** (0/170 znaków)
+- **Description** (0/4000 znaków)
+- **Keywords** (0/100, po przecinku)
+- **Privacy Policy URL**
+- **Support URL**
+- **Copyright:** © 2024 TwinCodeCorp
+
+---
+
+### Android:
+- **Nazwa aplikacji**
+- **Krótki opis** (0/80 znaków)
+- **Pełny opis** (0/4000 znaków)
+- **Privacy Policy URL**
+
+
 ## Wymagania dotyczące grafik w Google Play  
 
 ### **Ikona aplikacji**  
