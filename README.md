@@ -76,3 +76,13 @@
 - **Liczba podglądów aplikacji:** do 3  
 - **Format:** PNG lub JPEG  
 - **Wymiary:** 1320 × 2868 px, 2868 × 1320 px, 1290 × 2796 px lub 2796 × 1290 px  
+
+## 📸 Tworzenie grafik promocyjnych
+
+Polecane narzędzia do tworzenia atrakcyjnych grafik aplikacji:
+
+- ⭐ **[Previewed](https://previewed.app/)** 
+- [AppScreens](https://appscreens.com/)
+- [App Store Screenshot Studio](https://appstorescreenshotstudio.com/)
+- [ContentCore](https://contentcore.xyz/)
+- [App Mockup Studio](https://studio.app-mockup.com/)
